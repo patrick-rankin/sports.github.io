@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href:nbastatsandwinpct.qmd
+      - href: nbastatsandwinpct.qmd
         text: NBA Stats and Win Pct
 
 
