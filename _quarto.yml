@@ -1,15 +1,17 @@
 project:
   type: website
   output-dir: docs
-  
+
 
 website:
   title: "mywebsite1"
+  site-url: https://patrick-rankin.github.io/sports.github.io/  
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+
 
 format:
   html:
