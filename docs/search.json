@@ -53,28 +53,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site is a personal data journalism project focused on college and professional basketball. Every post is built from raw game-by-game data — no box-score summaries, no recycled narratives. Just the data, visualized and interpreted."
-  },
-  {
-    "objectID": "about.html#college-basketball-report",
-    "href": "about.html#college-basketball-report",
-    "title": "About",
-    "section": "",
-    "text": "This site is a personal data journalism project focused on college and professional basketball. Every post is built from raw game-by-game data — no box-score summaries, no recycled narratives. Just the data, visualized and interpreted."
+    "text": "This site is a personal data journalism project focused on college and\n      professional basketball. Every post is built from raw game-by-game data —\n      no box-score summaries, no recycled narratives. Just the data, visualized\n      and interpreted.\n    \n    \n      A basketball fan who believes the best stories in sports are hiding in the\n      data. Built this site to share those stories publicly."
   },
   {
     "objectID": "about.html#the-stack",
     "href": "about.html#the-stack",
     "title": "About",
     "section": "The Stack",
-    "text": "The Stack\n\nR — data ingestion, wrangling, and visualization (tidyverse, ggplot2)\nQuarto — rendering and publishing\nGitHub Pages — hosting\nESPN API — game-by-game data source"
-  },
-  {
-    "objectID": "about.html#the-author",
-    "href": "about.html#the-author",
-    "title": "About",
-    "section": "The Author",
-    "text": "The Author\nA basketball fan who believes the best stories in sports are hiding in the data. Built this site to share those stories publicly.\n\n\nQuestions, feedback, or data requests? Reach out on GitHub."
+    "text": "The Stack\n\n\n\n\n\n\n\nTool\nPurpose\n\n\n\n\nR\nData ingestion, wrangling, and visualization (tidyverse, ggplot2)\n\n\nQuarto\nRendering and publishing\n\n\nGitHub Pages\nHosting\n\n\nESPN API\nGame-by-game data source\n\n\n\n\n\nQuestions, feedback, or data requests? Reach out on GitHub."
   },
   {
     "objectID": "index.html",
