@@ -1,9 +1,23 @@
 ---
 title: "About"
+subtitle: "The person behind the numbers"
 ---
 
-About this site
+## College Basketball Report
 
-```{r}
-1 + 1
-```
+This site is a personal data journalism project focused on college and professional basketball. Every post is built from raw game-by-game data — no box-score summaries, no recycled narratives. Just the data, visualized and interpreted.
+
+## The Stack
+
+- **R** — data ingestion, wrangling, and visualization (`tidyverse`, `ggplot2`)
+- **Quarto** — rendering and publishing
+- **GitHub Pages** — hosting
+- **ESPN API** — game-by-game data source
+
+## The Author
+
+A basketball fan who believes the best stories in sports are hiding in the data. Built this site to share those stories publicly.
+
+---
+
+> Questions, feedback, or data requests? Reach out on GitHub.

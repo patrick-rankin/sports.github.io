@@ -1,11 +1,19 @@
 ---
-title: "mywebsite1"
+title: "College Basketball Report"
+subtitle: "Data-driven analysis of NCAA and NBA basketball"
 ---
 
-This is a Quarto website.
+Welcome to the **College Basketball Report** — a stats-first blog covering NCAA and NBA basketball through the lens of data. Every post digs into the numbers behind the game: shooting trends, team efficiency, player breakdowns, and season-long narratives told through visualizations.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## What You'll Find Here
 
-```{r}
-1 + 1
-```
+| Section | Description |
+|---|---|
+| **Duke Blue Devils** | 2025–26 season breakdown — shooting, scoring, and ball movement |
+| **NBA Stats & Win %** | How team statistics translate to wins in the NBA |
+
+## About This Project
+
+All analysis is built in R using real game-by-game data from ESPN. Charts are created with `ggplot2` and the site is rendered with [Quarto](https://quarto.org). The data pipeline lives in a separate R project and feeds directly into these pages.
+
+> Every number tells a story. This blog is about finding it.

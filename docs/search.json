@@ -53,13 +53,48 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site is a personal data journalism project focused on college and professional basketball. Every post is built from raw game-by-game data — no box-score summaries, no recycled narratives. Just the data, visualized and interpreted."
+  },
+  {
+    "objectID": "about.html#college-basketball-report",
+    "href": "about.html#college-basketball-report",
+    "title": "About",
+    "section": "",
+    "text": "This site is a personal data journalism project focused on college and professional basketball. Every post is built from raw game-by-game data — no box-score summaries, no recycled narratives. Just the data, visualized and interpreted."
+  },
+  {
+    "objectID": "about.html#the-stack",
+    "href": "about.html#the-stack",
+    "title": "About",
+    "section": "The Stack",
+    "text": "The Stack\n\nR — data ingestion, wrangling, and visualization (tidyverse, ggplot2)\nQuarto — rendering and publishing\nGitHub Pages — hosting\nESPN API — game-by-game data source"
+  },
+  {
+    "objectID": "about.html#the-author",
+    "href": "about.html#the-author",
+    "title": "About",
+    "section": "The Author",
+    "text": "The Author\nA basketball fan who believes the best stories in sports are hiding in the data. Built this site to share those stories publicly.\n\n\nQuestions, feedback, or data requests? Reach out on GitHub."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mywebsite1",
+    "title": "College Basketball Report",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to the College Basketball Report — a stats-first blog covering NCAA and NBA basketball through the lens of data. Every post digs into the numbers behind the game: shooting trends, team efficiency, player breakdowns, and season-long narratives told through visualizations."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "College Basketball Report",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\n\n\n\n\n\n\n\nSection\nDescription\n\n\n\n\nDuke Blue Devils\n2025–26 season breakdown — shooting, scoring, and ball movement\n\n\nNBA Stats & Win %\nHow team statistics translate to wins in the NBA"
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "College Basketball Report",
+    "section": "About This Project",
+    "text": "About This Project\nAll analysis is built in R using real game-by-game data from ESPN. Charts are created with ggplot2 and the site is rendered with Quarto. The data pipeline lives in a separate R project and feeds directly into these pages.\n\nEvery number tells a story. This blog is about finding it."
   }
 ]
