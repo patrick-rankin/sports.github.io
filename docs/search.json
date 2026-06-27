@@ -65,22 +65,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "College Basketball Report",
+    "title": "Classroom to Court",
     "section": "",
-    "text": "Welcome to the College Basketball Report — a stats-first blog covering NCAA and NBA basketball through the lens of data. Every post digs into the numbers behind the game: shooting trends, team efficiency, player breakdowns, and season-long narratives told through visualizations."
+    "text": "Basketball has always been more than a game — it’s a laboratory of strategy, athleticism, and storytelling. Classroom to Court bridges the gap between the academic study of sport and the hardwood itself, turning raw statistics into narratives that every fan can appreciate.\nWhether you follow the high-stakes drama of March Madness or track every NBA standings shift across an 82-game season, this site gives you something most coverage doesn’t: the numbers behind the moments. Every chart, every breakdown, and every post here is built from real game-by-game data — no filler, no recycled takes, just basketball and the statistics that explain it."
   },
   {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
-    "title": "College Basketball Report",
-    "section": "What You’ll Find Here",
-    "text": "What You’ll Find Here\n\n\n\n\n\n\n\nSection\nDescription\n\n\n\n\nDuke Blue Devils\n2025–26 season breakdown — shooting, scoring, and ball movement\n\n\nNBA Stats & Win %\nHow team statistics translate to wins in the NBA"
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Classroom to Court",
+    "section": "",
+    "text": "Basketball has always been more than a game — it’s a laboratory of strategy, athleticism, and storytelling. Classroom to Court bridges the gap between the academic study of sport and the hardwood itself, turning raw statistics into narratives that every fan can appreciate.\nWhether you follow the high-stakes drama of March Madness or track every NBA standings shift across an 82-game season, this site gives you something most coverage doesn’t: the numbers behind the moments. Every chart, every breakdown, and every post here is built from real game-by-game data — no filler, no recycled takes, just basketball and the statistics that explain it."
   },
   {
-    "objectID": "index.html#about-this-project",
-    "href": "index.html#about-this-project",
-    "title": "College Basketball Report",
-    "section": "About This Project",
-    "text": "About This Project\nAll analysis is built in R using real game-by-game data from ESPN. Charts are created with ggplot2 and the site is rendered with Quarto. The data pipeline lives in a separate R project and feeds directly into these pages.\n\nEvery number tells a story. This blog is about finding it."
+    "objectID": "index.html#explore-the-content",
+    "href": "index.html#explore-the-content",
+    "title": "Classroom to Court",
+    "section": "Explore the Content",
+    "text": "Explore the Content\n\n\n  \n    🏀 NCAA\n    Dive into college basketball with game-by-game breakdowns, team efficiency reports, and player spotlights.\n    \n      Duke Blue Devils 2025–26 →\n    \n  \n\n  \n    🏆 NBA\n    Explore how team statistics translate into wins across the NBA, with visualizations that reveal what the box score misses.\n    \n      NBA Stats & Win % →"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Classroom to Court",
+    "section": "Connect",
+    "text": "Connect\nStay up to date and connect with the community:\n\n\n  \n    \n      \n    \n    Follow on LinkedIn"
+  },
+  {
+    "objectID": "index.html#latest-basketball-news",
+    "href": "index.html#latest-basketball-news",
+    "title": "Classroom to Court",
+    "section": "Latest Basketball News",
+    "text": "Latest Basketball News\nStay current with what’s happening around the league:\n\n  \n    📰 ESPN Basketball Feed\n  \n  \n    \n      Follow the latest NBA and NCAA basketball news, scores, and analysis directly from ESPN:\n    \n    \n      @ESPN on X/Twitter — Breaking scores and highlights\n      @ESPNNBA on X/Twitter — NBA-specific coverage\n      @ESPN_CBB on X/Twitter — College basketball news"
   }
 ]

@@ -4,7 +4,7 @@ project:
 
 
 website:
-  title: "College Basketball Report"
+  title: "Classroom to Court"
   site-url: https://patrick-rankin.github.io/sports.github.io/
   favicon: "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png"
   navbar:
@@ -15,12 +15,14 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: nbastatsandwinpct.qmd
-        text: NBA Stats & Win %
-      - href: duke-blue-devils.qmd
-        text: Duke Blue Devils
+      - text: Content
+        menu:
+          - href: duke-blue-devils.qmd
+            text: NCAA — Duke Blue Devils
+          - href: nbastatsandwinpct.qmd
+            text: NBA — Stats & Win %
   page-footer:
-    center: "© 2026 College Basketball Report · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 Classroom to Court · Built with [Quarto](https://quarto.org)"
     background: "#0a1628"
 
 
@@ -31,6 +33,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 
