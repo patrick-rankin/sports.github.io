@@ -15,12 +15,80 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - text: Content
+      - text: NCAA
         menu:
           - href: duke-blue-devils.qmd
-            text: NCAA — Duke Blue Devils
+            text: Duke Blue Devils
+      - text: NBA
+        menu:
           - href: nbastatsandwinpct.qmd
-            text: NBA — Stats & Win %
+            text: NBA Stats & Win %
+          - text: "--- Atlantic ---"
+          - href: nba-boston-celtics.qmd
+            text: Boston Celtics
+          - href: nba-brooklyn-nets.qmd
+            text: Brooklyn Nets
+          - href: nba-new-york-knicks.qmd
+            text: New York Knicks
+          - href: nba-philadelphia-76ers.qmd
+            text: Philadelphia 76ers
+          - href: nba-toronto-raptors.qmd
+            text: Toronto Raptors
+          - text: "--- Central ---"
+          - href: nba-chicago-bulls.qmd
+            text: Chicago Bulls
+          - href: nba-cleveland-cavaliers.qmd
+            text: Cleveland Cavaliers
+          - href: nba-detroit-pistons.qmd
+            text: Detroit Pistons
+          - href: nba-indiana-pacers.qmd
+            text: Indiana Pacers
+          - href: nba-milwaukee-bucks.qmd
+            text: Milwaukee Bucks
+          - text: "--- Southeast ---"
+          - href: nba-atlanta-hawks.qmd
+            text: Atlanta Hawks
+          - href: nba-charlotte-hornets.qmd
+            text: Charlotte Hornets
+          - href: nba-miami-heat.qmd
+            text: Miami Heat
+          - href: nba-orlando-magic.qmd
+            text: Orlando Magic
+          - href: nba-washington-wizards.qmd
+            text: Washington Wizards
+          - text: "--- Northwest ---"
+          - href: nba-denver-nuggets.qmd
+            text: Denver Nuggets
+          - href: nba-minnesota-timberwolves.qmd
+            text: Minnesota Timberwolves
+          - href: nba-oklahoma-city-thunder.qmd
+            text: Oklahoma City Thunder
+          - href: nba-portland-trail-blazers.qmd
+            text: Portland Trail Blazers
+          - href: nba-utah-jazz.qmd
+            text: Utah Jazz
+          - text: "--- Pacific ---"
+          - href: nba-golden-state-warriors.qmd
+            text: Golden State Warriors
+          - href: nba-la-clippers.qmd
+            text: LA Clippers
+          - href: nba-los-angeles-lakers.qmd
+            text: Los Angeles Lakers
+          - href: nba-phoenix-suns.qmd
+            text: Phoenix Suns
+          - href: nba-sacramento-kings.qmd
+            text: Sacramento Kings
+          - text: "--- Southwest ---"
+          - href: nba-dallas-mavericks.qmd
+            text: Dallas Mavericks
+          - href: nba-houston-rockets.qmd
+            text: Houston Rockets
+          - href: nba-memphis-grizzlies.qmd
+            text: Memphis Grizzlies
+          - href: nba-new-orleans-pelicans.qmd
+            text: New Orleans Pelicans
+          - href: nba-san-antonio-spurs.qmd
+            text: San Antonio Spurs
   page-footer:
     center: "© 2026 Classroom to Court · Built with [Quarto](https://quarto.org)"
     background: "#0a1628"
@@ -33,5 +101,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
